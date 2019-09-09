@@ -1,13 +1,8 @@
 {
-<<<<<<< HEAD
   "name": "unit-test",
   "version": "1.0.0",
   "description": "",
   "main": "1.qs.js",
-=======
-  "name": "vue-unit",
-  "version": "0.1.0",
->>>>>>> add vue-unit
   "scripts": {
     "test": "jest --coverage"
   },
